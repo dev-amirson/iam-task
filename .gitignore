@@ -1,0 +1,7 @@
+iam-data-frontend/.DS_Store
+iam-data-frontend/node_modules
+IAM-user-api/node_modules
+
+# local env files
+iam-data-frontend/.env
+iam-data-frontend/.env.*.local
